@@ -17,7 +17,7 @@
 
 #### 合成一个像素
 
-令I表示从一张纹理样本图片I_smp合成的图像，<img src="http://www.forkosh.com/mathtex.cgi? {I_{smp}} \subset {I_{real}}">，其中I_real是一张真实无限纹理。令<img src="http://chart.googleapis.com/chart?cht=tx&chl= {p} \in {I}" style="border:none;">表示一个pixel，且
+令I表示从一张纹理样本图片I_smp合成的图像，<img src="http://www.forkosh.com/mathtex.cgi? {I_{smp}} \subset {I_{real}}">，其中I_real是一张真实无限纹理。令<img src="http://www.forkosh.com/mathtex.cgi? {p} \in {I}">表示一个pixel，且
 
 #### 合成纹理
 
